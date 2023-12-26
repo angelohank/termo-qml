@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LetterField.qml</file>
+        <file>WordField.qml</file>
+    </qresource>
+</RCC>
